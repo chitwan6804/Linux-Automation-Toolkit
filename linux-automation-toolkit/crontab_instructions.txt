@@ -1,2 +1,0 @@
-# Run system monitor daily at 9AM
-0 9 * * * /bin/bash $HOME/linux-automation-toolkit/system_monitor.sh >> $HOME/linux-automation-toolkit/cron.log 2>&1
