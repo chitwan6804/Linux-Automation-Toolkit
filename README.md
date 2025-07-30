@@ -70,6 +70,3 @@ linux-automation-toolkit/
 ---
 
 This toolkit was created for system automation practice and learning. Contributions and suggestions are welcome!
-
-```
-
