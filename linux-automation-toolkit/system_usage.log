@@ -1,0 +1,24 @@
+----- Thursday 31 July 2025 01:29:56 AM IST -----
+CPU Usage:
+%Cpu(s): 66.7 us, 33.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.5Gi       299Mi        30Mi       2.0Gi       2.3Gi
+Swap:          511Mi       268Ki       511Mi
+-----------------------
+----- Thursday 31 July 2025 01:34:01 AM IST -----
+CPU Usage:
+%Cpu(s):  0.0 us, 50.0 sy,  0.0 ni, 50.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.6Gi       122Mi        30Mi       2.2Gi       2.2Gi
+Swap:          511Mi       524Ki       511Mi
+-----------------------
+----- Thursday 31 July 2025 01:35:01 AM IST -----
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.6Gi       122Mi        30Mi       2.2Gi       2.2Gi
+Swap:          511Mi       524Ki       511Mi
+-----------------------
